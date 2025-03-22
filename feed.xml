@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Círculo de ideas</title>
-    <link href="https://nachocismondi.com/blog/feed.xml" rel="self" />
-    <link href="https://nachocismondi.com/blog" />
+    <link href="https://nachocismondi.github.io/blog/feed.xml" rel="self" />
+    <link href="https://nachocismondi.github.io/blog" />
     <updated>2025-03-22T04:10:00-03:00</updated>
     <author>
         <name>Nacho Cismondi</name>
     </author>
-    <id>https://nachocismondi.com/blog</id>
+    <id>https://nachocismondi.github.io/blog</id>
 
     <entry>
         <title>Vivo de Google</title>
         <author>
             <name>Nacho Cismondi</name>
         </author>
-        <link href="https://nachocismondi.com/blog/vivo-de-google.html"/>
-        <id>https://nachocismondi.com/blog/vivo-de-google.html</id>
+        <link href="https://nachocismondi.github.io/blog/vivo-de-google.html"/>
+        <id>https://nachocismondi.github.io/blog/vivo-de-google.html</id>
             <category term="Internet"/>
             <category term="Google"/>
 
@@ -28,7 +28,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/4/image-main-2.webp" height="595" width="1100" alt="Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-2xl.webp 1920w">
+      <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/4/image-main-2.webp" height="595" width="1100" alt="Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-2xl.webp 1920w">
       
     </figure>
 
@@ -42,7 +42,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/4/image-main-2.webp" height="595" width="1100" alt="Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/4/responsive/image-main-2-2xl.webp 1920w">
+      <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/4/image-main-2.webp" height="595" width="1100" alt="Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/4/responsive/image-main-2-2xl.webp 1920w">
       
     </figure>
 
@@ -103,9 +103,9 @@
         <author>
             <name>Nacho Cismondi</name>
         </author>
-        <link href="https://nachocismondi.com/blog/ojala-no-sea-como-en-las-pelicula.html"/>
-        <id>https://nachocismondi.com/blog/ojala-no-sea-como-en-las-pelicula.html</id>
-        <media:content url="https://nachocismondi.com/blog/media/posts/3/image-main-2.webp" medium="image" />
+        <link href="https://nachocismondi.github.io/blog/ojala-no-sea-como-en-las-pelicula.html"/>
+        <id>https://nachocismondi.github.io/blog/ojala-no-sea-como-en-las-pelicula.html</id>
+        <media:content url="https://nachocismondi.github.io/blog/media/posts/3/image-main-2.webp" medium="image" />
             <category term="UI"/>
             <category term="Tecnología"/>
             <category term="Cine"/>
@@ -113,14 +113,14 @@
         <updated>0202-09-04T12:00:00-03:53</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nachocismondi.com/blog/media/posts/3/image-main-2.webp" alt="Imagen abstracta que simula un cámara filmando con colores grises, naranjas y blancos." />
+                        <img src="https://nachocismondi.github.io/blog/media/posts/3/image-main-2.webp" alt="Imagen abstracta que simula un cámara filmando con colores grises, naranjas y blancos." />
                     
   <p>
     La industria audiovisual y en particular el cine, siempre se animaron a imaginar los futuros posibles de la tecnología. Pero para nuestro bien, sería mejor que las interfaces no sean como las pintan.<br>
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-main.webp" height="649" width="1200" alt="Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-main-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-2xl.webp 1920w">
+      <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-main.webp" height="649" width="1200" alt="Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-2xl.webp 1920w">
       <figcaption>Ilustración hecha por el mismo que escribió este epígrafe.</figcaption>
     </figure>
 
@@ -128,14 +128,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nachocismondi.com/blog/media/posts/3/image-main-2.webp" class="type:primaryImage" alt="Imagen abstracta que simula un cámara filmando con colores grises, naranjas y blancos." /></p>
+                    <p><img src="https://nachocismondi.github.io/blog/media/posts/3/image-main-2.webp" class="type:primaryImage" alt="Imagen abstracta que simula un cámara filmando con colores grises, naranjas y blancos." /></p>
                 
   <p>
     La industria audiovisual y en particular el cine, siempre se animaron a imaginar los futuros posibles de la tecnología. Pero para nuestro bien, sería mejor que las interfaces no sean como las pintan.<br>
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-main.webp" height="649" width="1200" alt="Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-main-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-main-2xl.webp 1920w">
+      <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-main.webp" height="649" width="1200" alt="Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-main-2xl.webp 1920w">
       <figcaption>Ilustración hecha por el mismo que escribió este epígrafe.</figcaption>
     </figure>
 
@@ -158,21 +158,21 @@
 
     <figure class="post__image post__image--center">
       <a href="https://en Behance" target="_blank">
-        <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-tron.webp" height="508" width="905" alt="Fotograma de la película "TRON: Legacy" del año 2010. Se ve una mano de un hombre controlando un holograma de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-tron-2xl.webp 1920w">
+        <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-tron.webp" height="508" width="905" alt="Fotograma de la película "TRON: Legacy" del año 2010. Se ve una mano de un hombre controlando un holograma de datos."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-tron-2xl.webp 1920w">
       </a>
       <figcaption>TRON: Legacy © Disney Enterprises. 2010. Proyecto en Behance.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <a href="https://www.chriskieffer.com/" target="_blank">
-        <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-saveworld2.webp" height="540" width="960" alt="Fotograma de la serie "Westworld" del año 2016. Dos manos de una persona escribiendo sobre un teclado digital."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld2-2xl.webp 1920w">
+        <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-saveworld2.webp" height="540" width="960" alt="Fotograma de la serie "Westworld" del año 2016. Dos manos de una persona escribiendo sobre un teclado digital."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld2-2xl.webp 1920w">
       </a>
       
     </figure>
 
     <figure class="post__image post__image--center">
       <a href="https://www.chriskieffer.com/" target="_blank">
-        <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-saveworld.webp" height="540" width="960" alt="Fotograma de la serie "Westworld" del año 2016. Una pantalla digital con datos y números."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-saveworld-2xl.webp 1920w">
+        <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-saveworld.webp" height="540" width="960" alt="Fotograma de la serie "Westworld" del año 2016. Una pantalla digital con datos y números."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-saveworld-2xl.webp 1920w">
       </a>
       <figcaption>Westworld © Chris Kieffer’s. 2016. Clic en la imagen para acceder al sitio del autor.</figcaption>
     </figure>
@@ -183,7 +183,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://https/altcinc.com/work/assassinscreed.com/work/assassinscreed" target="_blank">
-        <img loading="lazy" src="https://nachocismondi.com/blog/media/posts/3/image-assassins.webp" height="544" width="1280" alt="Fotograma del videojuego "Assassin’s Creed" del años 2016. Patrón abstracto de lineas y puntos con estilo informático."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-xs.webp 640w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-sm.webp 768w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-md.webp 1024w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-lg.webp 1366w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-xl.webp 1600w ,https://nachocismondi.com/blog/media/posts/3/responsive/image-assassins-2xl.webp 1920w">
+        <img loading="lazy" src="https://nachocismondi.github.io/blog/media/posts/3/image-assassins.webp" height="544" width="1280" alt="Fotograma del videojuego "Assassin’s Creed" del años 2016. Patrón abstracto de lineas y puntos con estilo informático."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-xs.webp 640w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-sm.webp 768w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-md.webp 1024w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-lg.webp 1366w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-xl.webp 1600w ,https://nachocismondi.github.io/blog/media/posts/3/responsive/image-assassins-2xl.webp 1920w">
       </a>
       <figcaption>Assassin’s Creed © Design/Direction — Ash Thorp. 2016. Clic en la imagen para acceder al sitio del autor.</figcaption>
     </figure>

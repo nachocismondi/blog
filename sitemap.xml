@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nachocismondi.com/blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nachocismondi.github.io/blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nachocismondi.com/blog/</loc>
+<loc>https://nachocismondi.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://nachocismondi.com/blog/ojala-no-sea-como-en-las-pelicula.html</loc>
+<loc>https://nachocismondi.github.io/blog/ojala-no-sea-como-en-las-pelicula.html</loc>
 <lastmod>2025-03-22T04:09:40-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-main-2.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-main-2.webp</image:loc>
 <image:title><![CDATA[Imagen abstracta que simula un cámara filmando con colores grises, naranjas y blancos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-main.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-main.webp</image:loc>
 <image:title><![CDATA[Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-tron.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-tron.webp</image:loc>
 <image:title><![CDATA[Fotograma de la película "TRON: Legacy" del año 2010. Se ve una mano de un hombre controlando un holograma de datos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-saveworld2.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-saveworld2.webp</image:loc>
 <image:title><![CDATA[Fotograma de la serie "Westworld" del año 2016. Dos manos de una persona escribiendo sobre un teclado digital.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-saveworld.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-saveworld.webp</image:loc>
 <image:title><![CDATA[Fotograma de la serie "Westworld" del año 2016. Una pantalla digital con datos y números.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/3/image-assassins.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-assassins.webp</image:loc>
 <image:title><![CDATA[Fotograma del videojuego "Assassin’s Creed" del años 2016. Patrón abstracto de lineas y puntos con estilo informático.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.com/blog/vivo-de-google.html</loc>
+<loc>https://nachocismondi.github.io/blog/vivo-de-google.html</loc>
 <lastmod>2025-03-22T04:10:00-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.com/blog/media/posts/4/image-main-2.webp</image:loc>
+<image:loc>https://nachocismondi.github.io/blog/media/posts/4/image-main-2.webp</image:loc>
 <image:title><![CDATA[Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google.]]></image:title>
 </image:image>
 </url>
