@@ -1,3 +1,0 @@
-## Blog
-
-Powered by Publii
