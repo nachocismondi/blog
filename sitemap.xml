@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nachocismondi.github.io/blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.nachocismondi.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nachocismondi.github.io/blog/</loc>
+<loc>https://blog.nachocismondi.com/</loc>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/como-dar-un-discurso.html</loc>
+<loc>https://blog.nachocismondi.com/como-dar-un-discurso.html</loc>
 <lastmod>2025-03-23T12:40:38-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/5/image-main.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/5/image-main.webp</image:loc>
 <image:title><![CDATA[Ilustración digital de un micrófono gris central con ondas de sonido punteadas naranjas concéntricas y una mancha naranja a la derecha, sobre fondo gris.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/latinoamerica-esta-asi-por-tu-culpa.html</loc>
+<loc>https://blog.nachocismondi.com/latinoamerica-esta-asi-por-tu-culpa.html</loc>
 <lastmod>2025-03-23T12:48:22-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/8/image-main.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/8/image-main.webp</image:loc>
 <image:title><![CDATA[Icono de megáfono naranja a la izquierda, flecha naranja apuntando a la derecha, icono de llave inglesa naranja a la derecha, sobre fondo de ladrillos blancos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/8/imagen-latinoamerica.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/8/imagen-latinoamerica.webp</image:loc>
 <image:title><![CDATA[Meme comparando un video de YouTube sobre cómo irse de Argentina con una escena de la película 'Volver al Futuro II' donde Biff Tannen sostiene un almanaque deportivo. Texto: 'Esta información vale millones...']]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/mucho-que-ocultar.html</loc>
+<loc>https://blog.nachocismondi.com/mucho-que-ocultar.html</loc>
 <lastmod>2025-03-23T12:40:45-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/7/image-main-2.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/7/image-main-2.webp</image:loc>
 <image:title><![CDATA[Ilustración digital de tres documentos de texto sobre un fondo naranja. A la derecha, una columna naranja con contenido encriptado en una serie de caracteres alfanuméricos en mayúsculas y minúsculas.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/ojala-no-sea-como-en-las-pelicula.html</loc>
+<loc>https://blog.nachocismondi.com/ojala-no-sea-como-en-las-pelicula.html</loc>
 <lastmod>2025-03-23T12:40:30-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-main.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/3/image-main.webp</image:loc>
 <image:title><![CDATA[Ilustración abstracta en tonos naranjas y grises con formas geométricas y líneas conectadas, evocando tecnología y análisis de datos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-tron.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/3/image-tron.webp</image:loc>
 <image:title><![CDATA[Fotograma de la película "TRON: Legacy" del año 2010. Se ve una mano de un hombre controlando un holograma de datos.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-saveworld2.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/3/image-saveworld2.webp</image:loc>
 <image:title><![CDATA[Fotograma de la serie "Westworld" del año 2016. Dos manos de una persona escribiendo sobre un teclado digital.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-saveworld.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/3/image-saveworld.webp</image:loc>
 <image:title><![CDATA[Fotograma de la serie "Westworld" del año 2016. Una pantalla digital con datos y números.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/3/image-assassins.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/3/image-assassins.webp</image:loc>
 <image:title><![CDATA[Fotograma del videojuego "Assassin’s Creed" del años 2016. Patrón abstracto de lineas y puntos con estilo informático.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/venderle-hielo-a-un-esquimal.html</loc>
+<loc>https://blog.nachocismondi.com/venderle-hielo-a-un-esquimal.html</loc>
 <lastmod>2025-03-23T12:40:41-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/6/image-main-2-2.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/6/image-main-2-2.webp</image:loc>
 <image:title><![CDATA[Ilustración digital de cubo naranja central sobre forma irregular con patrón de cuadrícula, entre dos marcos rectangulares, sobre fondo blanco con líneas guía punteadas.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nachocismondi.github.io/blog/vivo-de-google.html</loc>
+<loc>https://blog.nachocismondi.com/vivo-de-google.html</loc>
 <lastmod>2025-03-23T12:40:33-03:00</lastmod>
 <image:image>
-<image:loc>https://nachocismondi.github.io/blog/media/posts/4/image-main-2.webp</image:loc>
+<image:loc>https://blog.nachocismondi.com/media/posts/4/image-main-2.webp</image:loc>
 <image:title><![CDATA[Ilustración minimalista de un motor de búsqueda con resultados en naranja sobre fondo gris, evocando el diseño de Google.]]></image:title>
 </image:image>
 </url>
