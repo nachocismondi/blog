@@ -3,7 +3,7 @@
     <title>Círculo de ideas</title>
     <link href="https://blog.nachocismondi.com/feed.xml" rel="self" />
     <link href="https://blog.nachocismondi.com" />
-    <updated>2025-03-23T12:48:22-03:00</updated>
+    <updated>2025-06-14T13:53:50-03:00</updated>
     <author>
         <name>Nacho Cismondi</name>
     </author>
@@ -462,6 +462,7 @@
         <id>https://blog.nachocismondi.com/ojala-no-sea-como-en-las-pelicula.html</id>
             <category term="UI"/>
             <category term="Tecnología"/>
+            <category term="Diseño"/>
             <category term="Cine"/>
 
         <updated>2020-09-04T12:00:00-03:00</updated>

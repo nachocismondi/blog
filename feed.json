@@ -24,7 +24,7 @@
                    "Cambio"
             ],
             "date_published": "2021-04-05T12:00:00-03:00",
-            "date_modified": "2025-03-23T12:48:22-03:00"
+            "date_modified": "2025-06-14T13:53:50-03:00"
         },
         {
             "id": "https://blog.nachocismondi.com/mucho-que-ocultar.html",
@@ -104,10 +104,11 @@
             "tags": [
                    "UI",
                    "Tecnología",
+                   "Diseño",
                    "Cine"
             ],
             "date_published": "2020-09-04T12:00:00-03:00",
-            "date_modified": "2025-03-23T12:40:30-03:00"
+            "date_modified": "2025-04-01T23:15:33-03:00"
         }
     ]
 }
